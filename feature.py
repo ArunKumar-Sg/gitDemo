@@ -1,0 +1,1 @@
+print("Same feature from main")
